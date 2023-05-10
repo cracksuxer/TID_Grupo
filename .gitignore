@@ -3,3 +3,5 @@
 ./pickled/*.pkl
 *.pkl
 *.png
+env/
+```
